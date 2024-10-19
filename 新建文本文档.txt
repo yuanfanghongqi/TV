@@ -1,15 +1,6 @@
 {
   "spider": "http://www.wya6.cn/tz/wyza.php;md5;6572bdf43493033ca692116460a12bac",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "warningText": "无意云整合，请勿付费购买！",
   "sites": [
-    {
-      "key": "drpy_js_豆瓣",
-      "name": "无意云┃摸鱼",
-      "type": 3,
-      "api": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/drpy_libs/drpy2.min.js",
-      "ext": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/drpy_js/douban.js"
-    },
     {
       "key": "文采",
       "name": "无意云┃09.02",
