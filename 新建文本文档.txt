@@ -1,37 +1,7 @@
 {
-  "spider": "http://www.wya6.cn/tz/wyza.php;md5;6572bdf43493033ca692116460a12bac",
+
   "sites": [
-    {
-      "key": "文采",
-      "name": "无意云┃09.02",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "配置中心",
-      "name": "无意云┃配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "http://www.wya6.cn/tz/wydm.php;md5;a7a088c946d63465811aa9c9b4725f73"
-    },
-    {
-      "key": "直播转点播",
-      "name": "无意云┃直播",
-      "type": 3,
-      "searchable": 0,
-      "api": "https://gitee.com/wynp/ys/raw/master/js/live2vod.js",
-      "ext": "https://gitee.com/wynp/ys/raw/master/json/feimaolive.json"
-    },
+    
     {
       "key": "Iktv",
       "name": "🎤KTV┃音乐┃MV",
